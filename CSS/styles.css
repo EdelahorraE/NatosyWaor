@@ -11855,17 +11855,9 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-footer p {
-  color: white;
-}
-
 .col_album {
   max-width: 450px;
   margin-bottom: 20px;
-}
-
-footer p {
-  color: white;
 }
 
 .imagen-principal {
@@ -11877,10 +11869,6 @@ footer p {
   margin-top: 20px;
 }
 
-footer p {
-  color: white;
-}
-
 #container_spotify {
   margin-top: 50px;
   margin-bottom: 340px;
@@ -11889,10 +11877,6 @@ footer p {
 #image_spotify {
   display: grid;
   place-items: center;
-}
-
-footer p {
-  color: white;
 }
 
 #video_layout {
