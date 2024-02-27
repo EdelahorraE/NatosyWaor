@@ -11855,9 +11855,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.imagen-principal {
-  display: grid;
-  place-items: center;
+footer p {
+  color: white;
 }
 
 .col_album {
@@ -11865,13 +11864,21 @@ textarea.form-control-lg {
   margin-bottom: 20px;
 }
 
+footer p {
+  color: white;
+}
+
+.imagen-principal {
+  display: grid;
+  place-items: center;
+}
+
 #bio {
   margin-top: 20px;
 }
 
-#video_layout {
-  margin-top: 50px;
-  margin-bottom: 50px;
+footer p {
+  color: white;
 }
 
 #container_spotify {
@@ -11884,8 +11891,22 @@ textarea.form-control-lg {
   place-items: center;
 }
 
+footer p {
+  color: white;
+}
+
+#video_layout {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 .col_video {
   margin-bottom: 8%;
+}
+
+.col {
+  display: grid;
+  place-items: center;
 }
 
 /*# sourceMappingURL=styles.css.map */
